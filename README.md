@@ -1,5 +1,5 @@
-# MATLAB_EZDSP5502
-Interfacing MATLAB with Code Composer Studio by using EZDSP5502 board.
+# MATLAB_CCS_EZDSP5502
+Interfacing MATLAB2019a with Code Composer Studio v9 by using EZDSP5502 board.
 
  
 
